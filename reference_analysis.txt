@@ -1,3 +1,9 @@
+good question for pandas:
+https://stackoverflow.com/questions/tagged/pandas?sort=votes&pageSize=15
+
+pivot table
+https://pbpython.com/pandas-pivot-table-explained.html
+
 exercise :
 https://www.w3resource.com/python-exercises/pandas/movies/index.php
 
