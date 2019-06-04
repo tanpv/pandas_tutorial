@@ -1,0 +1,21 @@
+----------------------------------------
+01 loading and saving data
+---------------
+csv
+    csv format
+    read csv file
+
+excel
+    excel format
+    read excel file
+
+json
+    json format
+    read json file
+    
+html
+    html format
+    read html file
+    
+more data type https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html
+----------------------------------------
