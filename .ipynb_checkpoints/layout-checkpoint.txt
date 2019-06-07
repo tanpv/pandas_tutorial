@@ -1,0 +1,37 @@
+clear
+simple
+easy
+----------------------------------------
+01 loading and saving data
+--------------------------
+
+gif image from https://giphy.com/search/loading-data
+
+csv
+    csv format
+        explain csv with image
+    
+    read csv file
+        explain path parameter
+        try to run with a small data (deleted out not need columns)
+        
+    other separator comma, tab, colon
+        
+    other parameter
+
+json
+    json format
+    read json file
+    
+html
+    html format
+    read html file
+
+excel
+    excel format
+    read excel file
+    
+more data type https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html
+
+information about other part
+----------------------------------------
