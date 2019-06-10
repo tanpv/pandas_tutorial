@@ -35,3 +35,41 @@ more data type https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html
 
 information about other part
 ----------------------------------------
+
+- example
+    - introduce context
+    - data small enough, clean out all not important things
+    - question in logical and make sense enough
+    - with graph
+    - with code
+    - summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
