@@ -3,9 +3,12 @@ clear
 simple
 easy
 interesting
-    - bit project
-    - 
+    - bitcoin project
+    - nba project
 
+
+interview question
+    https://medium.com/@kacawi/tutorial-pandas-data-structures-736ded97842
 ----------------------------------------
 01 loading and saving data
 --------------------------
