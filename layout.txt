@@ -1,10 +1,10 @@
 analysis
-- 
--
--
--
--
--
+- site https://www.dunderdata.com/
+- class 
+- book
+- medium https://medium.com/dunder-data
+- twitter https://twitter.com/dunderdata
+- facebook https://www.facebook.com/dunderdata
 
 
 ----------------------------------------
