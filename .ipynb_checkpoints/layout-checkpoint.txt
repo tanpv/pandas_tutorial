@@ -1,6 +1,34 @@
+good on time series
+https://towardsdatascience.com/playing-with-time-series-data-in-python-959e2485bff8
+
+veriy serious on time series
+https://github.com/PacktPublishing/Practical-Time-Series-Analysis
+
+serious on time series
+https://github.com/wblakecannon/DataCamp/tree/master/11-pandas-foundations/03-time-series-in-pandas
+
+
+
+analysis
+- site https://www.dunderdata.com/
+- class 
+- book
+- medium https://medium.com/dunder-data
+- twitter https://twitter.com/dunderdata
+- facebook https://www.facebook.com/dunderdata
+
+
+----------------------------------------
 clear
 simple
 easy
+interesting
+    - bitcoin project
+    - nba project
+
+
+interview question
+    https://medium.com/@kacawi/tutorial-pandas-data-structures-736ded97842
 ----------------------------------------
 01 loading and saving data
 --------------------------
@@ -35,3 +63,41 @@ more data type https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html
 
 information about other part
 ----------------------------------------
+
+- example
+    - introduce context
+    - data small enough, clean out all not important things
+    - question in logical and make sense enough
+    - with graph
+    - with code
+    - summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

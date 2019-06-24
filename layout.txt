@@ -1,3 +1,14 @@
+good on time series
+https://towardsdatascience.com/playing-with-time-series-data-in-python-959e2485bff8
+
+veriy serious on time series
+https://github.com/PacktPublishing/Practical-Time-Series-Analysis
+
+serious on time series
+https://github.com/wblakecannon/DataCamp/tree/master/11-pandas-foundations/03-time-series-in-pandas
+
+
+
 analysis
 - site https://www.dunderdata.com/
 - class 
