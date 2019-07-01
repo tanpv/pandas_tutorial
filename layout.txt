@@ -1,3 +1,51 @@
+---------------------------------------
+time series layout
+    - Timestamp object
+    - Timedelta object
+    - Read data with Timestamp column
+    - Setting index column
+    - Use .loc to select full label index
+    - Use .loc to select part of label index
+        - Entire month
+        - Entire year
+        - Slice in range of data
+    
+    - Sorted date time index increase performance
+    - 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+---------------------------------------
+
 good on time series
 https://towardsdatascience.com/playing-with-time-series-data-in-python-959e2485bff8
 
